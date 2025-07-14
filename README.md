@@ -8,7 +8,7 @@ Regras do Jogo
 Acertar: avança e ganha o valor da rodada.  
 Errar: recebe o valor garantido e o jogo termina.  
 Parar: leva o valor acumulado até a rodada anterior e encerra o jogo.  
-4. As rodadas 4 e 5 têm valor garantido em caso de erro (R$ 500 e R$ 1.000, respectivamente).  
+4. As rodadas 4 e 5 têm valor garantido em caso de erro (R$ 500 e R$ 1.000).  
 5. Ao final, são exibidos:  
 Nome do jogador  
 Rodada em que parou ou foi eliminado  
